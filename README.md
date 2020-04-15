@@ -1,6 +1,13 @@
 # quizz
 
-A new Flutter application.
+This is a basic Flutter mobile app, a Quizz App with local data storage just to learn how to manage Scaffold, and Navigator to Navigate 2 pages
+this project has just 2 pages: 
+
+- The first one is the main page containing an AppBar , a Card and a flatButton
+- The Second one is the Quizz page, this page changes depending on the value of the variables and your response to the question
+Check it out in the /lib directory.
+
+if you have some questions related to this project, or any suggestions you can contact me at : thierrynjike14@gmail.com
 
 ## Getting Started
 
